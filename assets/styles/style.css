@@ -125,3 +125,15 @@ td {
   margin-right: 6rem;
   text-decoration: none;
 }
+
+#benefits-listas {
+}
+
+.lista1 {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.lista2 {
+  display: flex;
+}
